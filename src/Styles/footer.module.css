@@ -1,0 +1,19 @@
+.footer{
+   width: 100%;
+   background: rgb(179,106,138);
+background: linear-gradient(90deg, rgba(179,106,138,1) 2%, rgba(52,57,62,1) 99%);
+   margin-top: 200px;
+   display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    position: static;
+
+
+}
+
+.footer div{
+    padding: 10px;
+    text-decoration: none;
+    
+}
+

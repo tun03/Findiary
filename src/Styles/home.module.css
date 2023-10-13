@@ -1,0 +1,23 @@
+.home{
+    width: 50%;
+    
+    display: grid;
+   grid-template-columns: repeat(3, 1fr);
+    
+    gap: 9px;
+    margin: 20px auto;
+
+}
+
+.home div{
+    
+    border-radius: 10px;
+    background-color: rgb(179, 40, 80);
+    color: rgb(236, 230, 126);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+    padding: 15px;
+    width: 250px;
+
+    
+}

@@ -1,0 +1,14 @@
+.finance{
+    width: 30%;
+    background: rgb(228, 218, 207);
+    margin: 40px auto;
+    line-height: 5vh;
+    border-radius: 10px;
+}
+
+.finance div{
+    color: rgb(40, 3, 3);
+    font-family: 'Times New Roman', Times, serif;
+    
+    
+}

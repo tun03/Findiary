@@ -1,0 +1,252 @@
+{
+  "cxdetails": [
+    {
+      "date": "2023-10-03",
+      "transport": "25",
+      "food": "23",
+      "grocery": "25",
+      "utilities": "25",
+      "miscellaneous": "56",
+      "note": "64",
+      "id": 1
+    },
+    {
+      "date": "2023-10-03",
+      "transport": "25",
+      "food": "55",
+      "grocery": "56",
+      "utilities": "55",
+      "miscellaneous": "55",
+      "note": "10000",
+      "id": 2
+    },
+    {
+      "date": "2023-10-18",
+      "transport": "23",
+      "food": "23",
+      "grocery": "23",
+      "utilities": "23",
+      "miscellaneous": "23",
+      "note": "3eed",
+      "id": 3
+    },
+    {
+      "date": "2023-10-18",
+      "transport": "23",
+      "food": "23",
+      "grocery": "23",
+      "utilities": "23",
+      "miscellaneous": "23",
+      "note": "3eed",
+      "id": 3
+    },
+    {
+      "date": "2023-10-18",
+      "transport": "23",
+      "food": "23",
+      "grocery": "23",
+      "utilities": "23",
+      "miscellaneous": "23",
+      "note": "3eed",
+      "id": 3
+    },
+    {
+      "date": "2023-10-18",
+      "transport": "23",
+      "food": "23",
+      "grocery": "23",
+      "utilities": "23",
+      "miscellaneous": "23",
+      "note": "3eed",
+      "id": 3
+    },
+    {
+      "date": "2023-10-18",
+      "transport": "23",
+      "food": "23",
+      "grocery": "23",
+      "utilities": "23",
+      "miscellaneous": "23",
+      "note": "3eed",
+      "id": 3
+    },
+    {
+      "date": "2023-10-18",
+      "transport": "23",
+      "food": "23",
+      "grocery": "23",
+      "utilities": "23",
+      "miscellaneous": "23",
+      "note": "3eed",
+      "id": 3
+    },
+    {
+      "date": "2023-10-18",
+      "transport": "23",
+      "food": "23",
+      "grocery": "23",
+      "utilities": "23",
+      "miscellaneous": "23",
+      "note": "3eed",
+      "id": 3
+    },
+    {
+      "date": "2023-10-18",
+      "transport": "23",
+      "food": "23",
+      "grocery": "23",
+      "utilities": "23",
+      "miscellaneous": "23",
+      "note": "3eed",
+      "id": 3
+    },
+    {
+      "date": "2023-10-18",
+      "transport": "23",
+      "food": "23",
+      "grocery": "23",
+      "utilities": "23",
+      "miscellaneous": "23",
+      "note": "3eed",
+      "id": 3
+    },
+    {
+      "date": "2023-10-18",
+      "transport": "23",
+      "food": "23",
+      "grocery": "23",
+      "utilities": "23",
+      "miscellaneous": "23",
+      "note": "3eed",
+      "id": 3
+    },
+    {
+      "date": "2023-10-18",
+      "transport": "23",
+      "food": "23",
+      "grocery": "23",
+      "utilities": "23",
+      "miscellaneous": "23",
+      "note": "3eed",
+      "id": 3
+    },
+    {
+      "date": "2023-10-18",
+      "transport": "23",
+      "food": "23",
+      "grocery": "23",
+      "utilities": "23",
+      "miscellaneous": "23",
+      "note": "3eed",
+      "id": 3
+    },
+    {
+      "date": "2023-10-18",
+      "transport": "23",
+      "food": "23",
+      "grocery": "23",
+      "utilities": "23",
+      "miscellaneous": "23",
+      "note": "3eed",
+      "id": 3
+    },
+    {
+      "date": "2023-10-18",
+      "transport": "23",
+      "food": "23",
+      "grocery": "23",
+      "utilities": "23",
+      "miscellaneous": "23",
+      "note": "3eed",
+      "id": 3
+    },
+    {
+      "date": "2023-10-18",
+      "transport": "23",
+      "food": "23",
+      "grocery": "23",
+      "utilities": "23",
+      "miscellaneous": "23",
+      "note": "3eed",
+      "id": 3
+    },
+    {
+      "date": "2023-10-18",
+      "transport": "23",
+      "food": "23",
+      "grocery": "23",
+      "utilities": "23",
+      "miscellaneous": "23",
+      "note": "3eed",
+      "id": 3
+    },
+    {
+      "date": "2023-10-18",
+      "transport": "23",
+      "food": "23",
+      "grocery": "23",
+      "utilities": "23",
+      "miscellaneous": "23",
+      "note": "3eed",
+      "id": 3
+    },
+    {
+      "date": "2023-10-12",
+      "transport": "12",
+      "food": "52",
+      "grocery": "56",
+      "utilities": "65",
+      "miscellaneous": "65",
+      "note": "wetsa",
+      "id": 4
+    },
+    {
+      "transport": "23",
+      "food": "56",
+      "grocery": "32",
+      "utilities": "65",
+      "miscellaneous": "36",
+      "note": "36",
+      "date": "2023-10-18",
+      "id": 5
+    }
+  ],
+  "users": [
+    {
+      "id": 1
+    },
+    {
+      "name": "dfhdh",
+      "email": "ramu@gmail.com",
+      "password": "sdff",
+      "id": 2
+    },
+    {
+      "name": "Aziz",
+      "email": "aziz@gmail.com",
+      "password": "sara4",
+      "id": 3
+    },
+    {
+      "id": 4
+    },
+    {
+      "name": "Didi",
+      "email": "didi@gmail.com",
+      "password": "sara",
+      "id": 5
+    },
+    {
+      "name": "didi",
+      "email": "didi@gmail.com",
+      "password": "didi4",
+      "id": 6
+    },
+    {
+      "name": "sam",
+      "email": "sam@gmail.com",
+      "password": "sam",
+      "id": 7
+    }
+  ]
+}
